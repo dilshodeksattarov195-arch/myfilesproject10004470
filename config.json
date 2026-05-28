@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerealculate",
+        "uuid": 8904240,
+        "checksum": "vqnim"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
